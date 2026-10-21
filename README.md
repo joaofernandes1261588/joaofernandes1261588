@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi there, my name is João Fernandes
+🌱 I’m currently learning software development
 
 <!--
 **joaofernandes1261588/joaofernandes1261588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
